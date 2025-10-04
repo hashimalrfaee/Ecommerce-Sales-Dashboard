@@ -1,6 +1,5 @@
 # 📊 E-commerce Sales Dashboard (Tableau)
-![Dashboard Screenshot](Screenshot 2025-10-03 094445)
-
+![Dashboard Screenshot](Screenshot%2025-10-03%094445)
 ## Description
 
 This project analyzes sales data from an e-commerce store using
