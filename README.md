@@ -1,4 +1,5 @@
 # 📊 E-commerce Sales Dashboard (Tableau)
+![Dashboard Screenshot](Screenshot%202025-10-03%20140354.png)
 
 ## Description
 
