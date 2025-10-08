@@ -15,6 +15,9 @@ tracking:
 -   ✅ Top Customers by Revenue\
 -   ✅ Revenue by Country (Bar + Map visualization)
 
+# Goal
+-  “The goal is to help the e-commerce team understand product performance and optimize marketing strategies.”
+
 ## Key Insights
 
 -   Shawl is the top-performing product by revenue.\
@@ -34,9 +37,7 @@ This interactive dashboard helps decision-makers identify top-performing
 products, loyal customers, and key markets, supporting strategic sales
 and marketing decisions.
 
-## Preview
 
-*(Insert a screenshot of your dashboard here)*
 
 ## How to Use
 
